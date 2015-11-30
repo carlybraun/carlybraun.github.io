@@ -5,13 +5,15 @@
 }
 
 .aboutamber {
-  font-size: 3em;
+  font-size: 5em;
+  text-align: center;
 }
 
 .aboutdescription {
-
+  font-size: 2em;
+  text-align: center;
 }
 
 .aboutpara {
-
+  text-align: center;
 }
