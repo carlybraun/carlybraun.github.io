@@ -19,5 +19,13 @@
 }
 
 .bnwbackground {
-  background red;
+  background: red;
+}
+
+.colorbackground {
+  background: purple;
+}
+
+.hatsbackground {
+  background: gray;
 }
