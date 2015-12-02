@@ -7,13 +7,18 @@
 .aboutamber {
   font-size: 5em;
   text-align: center;
+  color: white;
 }
 
 .aboutdescription {
   font-size: 2em;
   text-align: center;
+  color: white;
 }
 
+.abouthome {
+  background: black;
+}
 .aboutpara {
   text-align: center;
 }
