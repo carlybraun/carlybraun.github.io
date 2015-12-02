@@ -29,3 +29,7 @@
 .hatsbackground {
   background: gray;
 }
+
+a {
+  hover: purple;
+}
