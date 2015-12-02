@@ -19,7 +19,7 @@
 }
 
 .bnwbackground {
-  margin-bottom: 50px black;
+  border-bottom: 50px black solid;
 }
 
 .colorbackground {
