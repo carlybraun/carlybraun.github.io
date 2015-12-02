@@ -17,19 +17,3 @@
 .aboutpara {
   text-align: center;
 }
-
-.bnwbackground {
-  background: red;
-}
-
-.colorbackground {
-  background: purple;
-}
-
-.hatsbackground {
-  background: gray;
-}
-
-a {
-  hover: purple;
-}
