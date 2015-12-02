@@ -7,11 +7,23 @@
 .aboutamber {
   font-size: 5em;
   text-align: center;
+  color: black;
+}
+
+.aboutdescriptionhome {
+  font-size: 2em;
+  text-align: center;
+  color: black;
+}
+
+.aboutdescriptionhome {
+  font-size: 2em;
+  text-align: center;
   color: white;
 }
 
-.aboutdescription {
-  font-size: 2em;
+.aboutamberhome {
+  font-size: 5em;
   text-align: center;
   color: white;
 }
