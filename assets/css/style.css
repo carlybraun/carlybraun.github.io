@@ -17,3 +17,15 @@
 .aboutpara {
   text-align: center;
 }
+
+.bnwbackground {
+  margin-bottom: 10px black;
+}
+
+.colorbackground {
+  background: purple;
+}
+
+.hatsbackground {
+  background: gray;
+}
