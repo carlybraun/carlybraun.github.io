@@ -28,6 +28,9 @@
   font-family: 'Pacifico', cursive;
 }
 
+.aboutdescriptionhome:hover {
+  background: #7f00ff;
+}
 .aboutamberhome {
   font-size: 5em;
   text-align: center;
