@@ -55,12 +55,11 @@
   padding: 15px 25px;
   padding-left: 0px;
   font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1em;
 }
 
 .homenav-item {
   display: inline-block;
   padding: 15px 25px;
   font-family: inherit;
-  font-size: 1em;
-  font-family: 'Source Sans Pro', sans-serif;
 }
