@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600);
 
 .col-md-1 {
   border-left: 1px solid black;
@@ -40,6 +41,8 @@
 }
 .aboutpara {
   text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 .homenav-item:hover {
@@ -58,4 +61,5 @@
   padding: 15px 25px;
   font-family: inherit;
   font-size: 1em;
+  font-family: 'Source Sans Pro', sans-serif;
 }
