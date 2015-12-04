@@ -56,4 +56,5 @@
 .homenav-item {
   display: inline-block;
   padding: 15px 25px;
+  font-family: inherit;
 }
