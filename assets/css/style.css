@@ -68,6 +68,6 @@ a:hover {
   font-family: inherit;
 }
 
-.work:img:hover {
-  background: #7f00ff;
+.work {
+  padding-right: 10px;
 }
