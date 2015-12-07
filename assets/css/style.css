@@ -54,7 +54,7 @@ a:hover {
 }
 
 .homenav-list {
-  text-align: right;
+  text-align:center;
   display: inline-block;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 25px;
