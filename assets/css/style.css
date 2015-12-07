@@ -67,3 +67,7 @@ a:hover {
   padding: 15px 25px;
   font-family: inherit;
 }
+
+.home:hover {
+  background: #7f00ff;
+}
