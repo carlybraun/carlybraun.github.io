@@ -29,6 +29,10 @@
   font-family: 'Pacifico', cursive;
 }
 
+a:hover {
+  color: #7f00ff;
+}
+
 .aboutamberhome {
   font-size: 5em;
   text-align: center;
